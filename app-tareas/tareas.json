@@ -1,0 +1,9 @@
+[
+  { "titulo": "Repasar JS", "estado": "terminada" },
+  { "titulo": "Repasar CSS", "estado": "en progreso" },
+  { "titulo": "Repasar HTML", "estado": "terminada" },
+  { "titulo": "Repasar Git", "estado": "en progreso" },
+  { "titulo": "Repasar NodeJS", "estado": "pendiente" },
+  { "titulo": "Repasar React", "estado": "pendiente" },
+  { "titulo": "Ejemplo", "estado": "pendiente" }
+]
